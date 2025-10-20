@@ -1,0 +1,5 @@
+model,mae_mean,mae_std,rmse_mean,rmse_std,mape_mean,mape_std,r2_mean,r2_std
+ElasticNet,0.35,0.237,0.786,0.762,108.846,60.893,0.729,0.187
+GradientBoosting,0.03,0.026,0.085,0.071,2.389,0.644,0.997,0.002
+RandomForest,0.105,0.088,0.338,0.297,7.677,1.288,0.951,0.035
+Ridge,0.424,0.236,0.929,0.898,173.12,81.158,0.595,0.266
